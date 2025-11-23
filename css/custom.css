@@ -3,7 +3,7 @@
 /* Font and base colors */
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  background-color: white; /* page background */
+  background-color: grey; /* page background */
   color: black; /* default font color */
   line-height: 1.45;
 }
